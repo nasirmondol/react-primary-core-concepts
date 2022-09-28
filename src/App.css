@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+  color: orange;
+  margin: 20px;
+  border: 2px solid goldenrod;
+  background-color: #61dafb;
+  padding: 17px;
+  border-radius: 10px;
+}
+
+.products{
+ background-color: cornflowerblue;
+ color: beige;
+ margin: 20px;
+ padding: 10px;
+ border: 1px solid lightcoral;
+ border-radius: 6px;
+}
